@@ -1,9 +1,8 @@
 <h1>Setup NextJS</h1>
 
-Repositório destinado como ponto de partida para início de projetos em NextJS e TypeScript.
+Repositório destinado como ponto de partida para projetos em NextJS e TypeScript.
 
-Sinta-se a vontade para clonar e utilizá-lo como base.
-Melhore-o de forma que seja melhor para o seu uso.
+Sinta-se a vontade para clonar e utilizar como base. Melhore de forma que seja melhor para o seu uso.
 
 
 <h1>🧪 Tecnologias Usadas</h1>
@@ -18,20 +17,27 @@ Melhore-o de forma que seja melhor para o seu uso.
 - [Babel](https://babeljs.io)
 - [Yarn](https://yarnpkg.com)
 
-### Instalar dependecias
-```sh
+
+<h1>Como utilizar o setup</h1>
+
+### Instalando dependências
 Com yarn:
+```sh
 $ yarn
+```
 
 Com npm:
+```sh
 $ npm i
 ```
 
-### Executar projeto
-```sh
+### Executando o projeto
 Com yarn:
+```sh
 $ yarn dev
+```
 
 Com npm:
+```sh
 $ npm run dev
 ```
