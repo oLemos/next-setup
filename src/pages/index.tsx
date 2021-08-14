@@ -1,7 +1,8 @@
-import React from 'react';
+import { NextPage } from 'next';
+
 import Head from 'next/head';
 
-const Home: React.FC = () => {
+const IndexPage: NextPage = () => {
   return (
     <div>
       <Head>
@@ -15,4 +16,4 @@ const Home: React.FC = () => {
   );
 };
 
-export default Home;
+export default IndexPage;
