@@ -1,6 +1,6 @@
 import React from 'react';
-import type { NextPage } from 'next'
-import Head from 'next/head'
+import type { NextPage } from 'next';
+import Head from 'next/head';
 
 const Home: NextPage = () => {
     return (
@@ -13,7 +13,7 @@ const Home: NextPage = () => {
                 <h1>Hello world</h1>
             </main>
         </div>
-    )
-}
+    );
+};
 
-export default Home
+export default Home;
